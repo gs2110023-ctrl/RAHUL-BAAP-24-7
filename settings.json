@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Sigmasmp-ngar.aternos.me",
-    "port": 25565,
+    "port": 26090,
     "version": "1.20.1",
     "try-creative": false
   },
